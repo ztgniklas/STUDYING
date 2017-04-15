@@ -1,0 +1,11 @@
+右上角三角形
+
+
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="55px" height="31px">
+<path fill-rule="evenodd"  fill="rgb(229, 229, 229)"
+ d="M27.177,30.098 L0.093,0.918 L54.262,0.918 L27.177,30.098 Z"/>
+</svg>
+
